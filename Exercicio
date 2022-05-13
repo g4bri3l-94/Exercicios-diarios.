@@ -1,0 +1,6 @@
+01) Crie um script em Python em que o usuario informe seu endereco e no final apareca a seguinte pergunta "Entao voce mora na  xxxx , xxxx , xxxx , xxxx , correto?
+rua=input('Informe sua rua: ')
+bairro=input('Informe seu bairro: ')
+cidade=input('Informe sua cidade: ')
+estado=input('Informe seu estado: ')
+print('Entao voce mora na ', rua,',', bairro,',', cidade,',', estado,',', 'correto?')
