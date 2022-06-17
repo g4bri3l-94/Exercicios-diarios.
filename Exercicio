@@ -4,3 +4,29 @@ bairro=input('Informe seu bairro: ')
 cidade=input('Informe sua cidade: ')
 estado=input('Informe seu estado: ')
 print('Entao voce mora na ', rua,',', bairro,',', cidade,',', estado,',', 'correto?')
+
+'''
+def FizzBuzz(n):
+    if n % 2 == 0 and n % 4 == 0:
+        return 'FizzBuzz'
+    elif n % 2 == 0:
+        return 'Fizz'
+    elif n % 4 == 0:
+        return 'Buzz'
+    else:
+        return n
+n = int(input('Digite um valor: '))
+fizzbuzz = FizzBuzz(n)
+print(fizzbuzz)
+'''
+
+'''
+def somar():
+    return valor01 + valor02
+valor01 = int(input('Digite um valor: '))
+valor02 = int(input('Digite outro valor: '))
+soma = somar()
+print(f'O resultado é: {soma}')
+'''
+
+
